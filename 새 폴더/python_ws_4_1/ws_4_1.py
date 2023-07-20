@@ -21,4 +21,3 @@ print(parsed_data['name'])
 print(parsed_data['username'])
 print(parsed_data['company']['name'])
 
-#깃헙에 올리기g
